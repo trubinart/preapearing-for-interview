@@ -1,0 +1,10 @@
+0 less1 
+1 less2 
+2 less3 
+3 less2 
+4 less1 
+5 less3 
+6 less4 
+7 less5 
+8 s 
+9 s 
